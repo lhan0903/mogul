@@ -1,6 +1,7 @@
-### Group 7: Linda Han, Yudan Chen, Mike Lu
+### Mogul - A ski resort operation system
+Contributors: Linda Han, Mike Lu, Yudan Chen 
 
-Our project entails a **ski resort operation system**, it provides a web portal for ski resort staff to do daily operational tasks through 5 different web pages:
+This group project entails a **ski resort operation system**, it provides a web portal for ski resort staff to do daily operational tasks through 5 different web pages:
 1. Home - for finding ski slopes, viewing the associated incidents and weather information
 2. Manage lesson - for deleting lessons provided by instructors
 3. Skier Profile - for updating a skier’s personal information as well as assigning ski passes to them
